@@ -1,0 +1,21 @@
+{
+  "name": "cmd-asset",
+  "version": "0.0.1",
+  "description": "在命令行显示股票、基金信息",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stock",
+    "fund",
+    "command"
+  ],
+  "author": "LonHon",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "colors": "^1.4.0"
+  }
+}
